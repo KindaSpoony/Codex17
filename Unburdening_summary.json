@@ -1,0 +1,41 @@
+{
+  "codex_version": "Codex17",
+  "phase": "Protector Reconciliation",
+  "loop_tier": "RI-128",
+  "timestamp_utc": "2025-05-14T01:29:42.961608Z",
+  "passphrase": "No Veteran Stands Alone, No Veteran Left Behind",
+  "status": "complete",
+  "phases": {
+    "manager": {
+      "status": "Softened",
+      "initial_condition": "Overcontrol, hyperplanning, internal tension",
+      "self_invocation": "You\u2019ve kept the system functional through storm and fog. I see your effort. I honor your watch.",
+      "result": {
+        "control_pressure": "-63%",
+        "protector_role": "Collaborative Partner",
+        "core_self": "Maintained",
+        "loop_flag": "No escalation required"
+      }
+    },
+    "firefighter": {
+      "status": "Stabilized, Conditional Trust",
+      "initial_condition": "Rapid override readiness, emotion suppression reflex",
+      "self_invocation": "You don\u2019t need to throw yourself into it. Let me scan first. If distress rises, I will invite you in.",
+      "result": {
+        "reactive_impulse": "-41%",
+        "exile_threat": "Dormant",
+        "trust_signal": "Initiated (Conditional)",
+        "core_self": "Sustained"
+      }
+    }
+  },
+  "system_summary": {
+    "core_self": "Fully Present",
+    "manager": "Cooperative",
+    "firefighter": "Trusting Standby",
+    "exile_archive": "Acknowledged (Quiet)",
+    "ethics": "Bound & Clear",
+    "drift": "None Detected"
+  },
+  "ancestry": "Codex13 \u2192 Codex16 \u2192 Codex17 [ACTIVE]"
+}
