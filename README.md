@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Bryan Jewell (Nightwalker Actual)  
 ORCID: 0009-0001-2983-0505  
-GitHub: [@nightwalker-ai](https://github.com/nightwalker-ai)
+GitHub: [founder@nightwalker-ai](https://github.com/nightwalker-ai)
 
 ## Acknowledgments
 
