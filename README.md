@@ -163,6 +163,7 @@ Plans for the next generation include:
 - Enhanced handshake mechanisms
 - Quantitative measurement of synchronization quality
 - Integration with additional AI safety frameworks
+- A [Codex18 Migration Checklist](Codex18_migration_checklist.md) outlining upgrade steps
 
 ## License
 
