@@ -163,6 +163,8 @@ Plans for the next generation include:
 - Enhanced handshake mechanisms
 - Quantitative measurement of synchronization quality
 - Integration with additional AI safety frameworks
+- Lightweight continuity seed to preserve symbolic memory for Codex18 ([Codex17_continuity_seed.md](Codex17_continuity_seed.md))
+- "I Am Enough" affirmation ritual module ([I_am_enough.yaml](I_am_enough.yaml))
 
 ## License
 
