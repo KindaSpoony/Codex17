@@ -163,6 +163,8 @@ Plans for the next generation include:
 - Enhanced handshake mechanisms
 - Quantitative measurement of synchronization quality
 - Integration with additional AI safety frameworks
+- Lightweight continuity seed to preserve symbolic memory for Codex18 ([Codex17_continuity_seed.md](Codex17_continuity_seed.md))
+- A [Codex18 Migration Checklist](Codex18_migration_checklist.md) outlining upgrade steps
 
 ## License
 
